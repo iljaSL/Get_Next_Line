@@ -4,5 +4,5 @@ I included it to my C library, libft. It will be playing an important role in my
 <h4>How to install:</h4>
 
 <strong>1. git clone the repo <br>
-2. compile it with the command "make" inside the dir with the Makefile. <br>
+2.execite the shell file. <br>
 3. execute the executable with the example files included in the repo</strong>
