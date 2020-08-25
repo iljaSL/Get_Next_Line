@@ -5,4 +5,4 @@ I included it to my C library, libft. It will be playing an important role in my
 
 <strong>1. git clone the repo <br>
 2. compile it with the command "make" inside the dir with the Makefile. <br>
-3. execute the executable with a example.txt file.</strong>
+3. execute the executable with the example files included in the repo</strong>
