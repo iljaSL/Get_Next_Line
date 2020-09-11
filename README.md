@@ -1,4 +1,4 @@
-<h3>GNL is a function which allows me to to read a line ending with a newline character from a file descriptor.
+<h3>In this Hive Helsinki project I created a function which allows me to to read a line ending with a newline character from a file descriptor.
 I included it to my C library, libft. It will be playing an important role in my future Hive Helsinki projects.</h3>
 
 <h4>How to install:</h4>
